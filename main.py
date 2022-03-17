@@ -7,3 +7,5 @@ channel = "C034JJR83GF"
 msg = "Hello World!"
 
 sendmsg(token, channel, msg)
+
+print("done)
